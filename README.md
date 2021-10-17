@@ -1,0 +1,1 @@
+# Xamarin_bug_Stacklayout_inside_a_frame
