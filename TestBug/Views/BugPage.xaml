@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="TestBug.Views.BugPage">
+    <ContentPage.Content>  
+            <Frame>
+                <StackLayout>
+                    <Label
+                        Text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis voluptas dignissimos perferendis animi numquam consequatur 
+                             facilis neque libero distinctio labore a iste, cupiditate tempora quasi sed ducimus quod tempore, voluptatem illum rem. Cum aspernatur dolores, 
+                             cumque nam, recusandae exercitationem, sit excepturi veniam libero aliquid facere soluta et reprehenderit. Soluta deserunt aliquid, a fugiat. 
+                             Commodi accusantium doloribus quia in aliquam placeat, dolorum repudiandae, omnis totam reprehenderit excepturi! Provident nulla, ratione minima 
+                             sed hic officiis ipsum dolorem modi minus possimus itaque eius laboriosam et magni iste quos soluta! Fugiat adipisci excepturi aliquid eius enim 
+                             iste earum ullam sunt, aut totam hic perferendis amet neque quas dolorem. Quasi dolorum quo, et minima, iste repudiandae tempore voluptates numquam 
+                             eum ad accusamus aliquid mollitia nihil molestias corporis officia molestiae aperiam aspernatur, sapiente id corrupti. Debitis distinctio hic 
+                             ratione dignissimos repellendus veniam repudiandae odit, ab provident quos vero, voluptatibus asperiores unde animi aliquid amet nulla eaque 
+                             eveniet totam minima sapiente, velit consectetur possimus. Eum corporis totam, at expedita? Ratione voluptatem, reprehenderit itaque cumque alias 
+                             quidem, eius maiores. In illo laboriosam doloribus earum hic. Libero, nisi! Laborum facere, mollitia quibusdam! Voluptates debitis provident 
+                             voluptatum quos esse, quasi veritatis voluptas iste facere hic rerum nobis quia vero quisquam.  
+                             Commodi accusantium doloribus quia in aliquam placeat, dolorum repudiandae, omnis totam reprehenderit excepturi! Provident nulla, ratione minima 
+                             sed hic officiis ipsum dolorem modi minus possimus itaque eius laboriosam et magni iste quos soluta! Fugiat adipisci excepturi aliquid eius enim 
+                             iste earum ullam sunt, aut totam hic perferendis amet neque quas dolorem. Quasi dolorum quo, et minima, iste repudiandae tempore voluptates numquam 
+                             eum ad accusamus aliquid mollitia nihil molestias corporis officia molestiae aperiam aspernatur, sapiente id corrupti. Debitis distinctio hic 
+                             ratione dignissimos repellendus veniam repudiandae odit, ab provident quos vero, voluptatibus asperiores unde animi aliquid amet nulla eaque 
+                             eveniet totam minima sapiente, velit consectetur possimus. Eum corporis totam, at expedita? Ratione voluptatem, reprehenderit itaque cumque alias 
+                             quidem, eius maiores. In illo laboriosam doloribus earum hic. Libero, nisi! Laborum facere, mollitia quibusdam! Voluptates debitis provident 
+                             voluptatum quos esse, quasi veritatis voluptas iste facere hic rerum nobis quia vero quisquam."/>
+                </StackLayout>
+            </Frame>
+        
+    </ContentPage.Content>
+</ContentPage>
